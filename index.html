@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Depth Library · Payments &amp; Security Interview Prep</title>
+  <link rel="preconnect" href="#" />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="topbar">
+    <button class="icon-btn menu-toggle" id="menuToggle" aria-label="Toggle navigation">☰</button>
+    <a class="brand" href="#/">
+      <span class="brand-mark">📚</span>
+      <span class="brand-text">
+        <strong>Depth Library</strong>
+        <em>Payments · Security · Program Delivery</em>
+      </span>
+    </a>
+    <div class="topbar-search">
+      <input id="searchInput" type="search" placeholder="Search topics, tags, concepts…  ( / )" autocomplete="off" aria-label="Search" />
+      <div id="searchResults" class="search-results" hidden></div>
+    </div>
+    <div class="topbar-actions">
+      <div class="global-progress" id="globalProgress" title="Overall mastery">
+        <div class="global-progress-bar"><span id="globalProgressFill"></span></div>
+        <span class="global-progress-label" id="globalProgressLabel">0%</span>
+      </div>
+      <button class="icon-btn" id="themeToggle" aria-label="Toggle theme">🌙</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <nav class="sidebar" id="sidebar" aria-label="Sections"></nav>
+    <main class="content" id="main" tabindex="-1"></main>
+  </div>
+
+  <div class="scrim" id="scrim"></div>
+
+  <script src="assets/vendor/marked.min.js"></script>
+  <script src="assets/vendor/mermaid.min.js"></script>
+
+  <!-- Core engine -->
+  <script src="assets/js/app.js"></script>
+
+  <!-- Content modules. Add a new <script> line here each week to publish a section. -->
+  <script src="content/sections/payments.js"></script>
+  <script src="content/sections/security.js"></script>
+  <script src="content/sections/program-delivery.js"></script>
+
+  <!-- Boot after all content is registered -->
+  <script>window.DEPTH && window.DEPTH.boot();</script>
+</body>
+</html>
