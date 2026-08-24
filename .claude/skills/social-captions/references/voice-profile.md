@@ -53,8 +53,11 @@ Drawn from the captions above. Update as more come in.
   lists it.
 
 **What she does not do**
-- No call to action. No "recipe below," no "save this," no "tell me in the
-  comments."
+- No hard call to action. No "save this," no "tell me in the comments," no
+  "double tap." A soft invite at the end is wanted now that posts are aimed at
+  growth - "follow along if this is how you eat too" - but it stays an open
+  door rather than a demand. The older samples have no CTA at all, so keep it
+  to one quiet line.
 - No lesson or takeaway line at the end.
 - No hook question at the top.
 - No emoji spray. One sparkle on the header line, and that is the whole budget.

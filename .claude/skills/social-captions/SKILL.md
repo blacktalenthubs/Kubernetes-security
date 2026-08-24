@@ -83,9 +83,15 @@ summarise what she said - summarising is what makes captions sound written by
 a machine. Pick the one true sentence out of it and let the rest go.
 
 If the transcript is from an already-filmed video, do not write a teleprompter
-script for it. The audio exists. Write the caption to complement what she
-already said rather than repeat it, and make sure the search phrase she said
-out loud is the one the caption targets, so both slots point the same way.
+script for it - the audio exists. Do write the caption to **cover the same
+ground the audio covers.** This is worth being deliberate about, because the
+instinct to avoid repeating yourself is wrong here: the platforms index the
+spoken words and the caption text separately, so a term appearing in both is
+reinforced rather than wasted. A caption that carefully avoids repeating the
+video throws away the strongest signal available about what the post is about.
+
+Summarise the audio in her voice, keep the key nouns intact, and let the
+caption and the spoken words point at the same search phrase.
 
 ## Pick the search phrase first
 
@@ -111,6 +117,35 @@ Pick 2 or 3 secondary phrases too and let them fall naturally into the item
 lines. Naturally is the operative word - a caption that reads like it was
 built around keywords loses her voice, and the algorithm is not the one
 deciding whether to follow her.
+
+## Caption architecture
+
+Default to **three short paragraphs**, in this order, with a blank line between
+each. The structure exists because each layer does a different job, and a
+caption missing one of them underperforms in a specific way.
+
+**1. What's on the plate.** Name the actual dishes, plainly. This is her voice
+and it is also the highest-value search text on the page - "amala" and "egusi"
+are exactly what someone types, and almost nobody in the fitness space is
+writing those words. Specific dish names beat category words like "African
+food" every time, so lead with them and let the category follow.
+
+**2. The teaching.** What she wants the audience to take away. This is the
+layer that earns the save and the share, which matter more to reach than likes
+do. Keep it loose and spoken - a hedge like "faster than most people think"
+reads as a person talking, where a clean declarative reads as copy.
+
+**3. A soft invite.** Something low-pressure at the end - what she is doing
+next, and an open door to follow. "Follow along if this is how you eat too"
+works because it names who it is for instead of demanding anything. Avoid
+"double tap," "save this now," "comment below" - forceful CTAs read as
+reach-chasing and cost more trust than they gain.
+
+Then the hashtag block.
+
+Not every post needs all three. A plain meal photo with nothing to teach is
+fine as the bare list, which is her older format. But when there is a point to
+make, the three layers are the shape.
 
 ## Output format
 
