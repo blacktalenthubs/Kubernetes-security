@@ -42,6 +42,37 @@ that narrates it is filling space.
 comments." It is transparently a request for engagement, and her real captions
 never ask for anything.
 
+## The opposite failure: punchy
+
+Everything above warns against flowery wellness copy. There is a second way to
+fail that is harder to spot, because it looks like the cure.
+
+**The staccato stack.** Short declarative sentences hammered in pairs or
+triples. "That's me. That's not the rule." "The food is fine. The portion is
+the problem." Each sentence lands, and that is the tell - real speech is uneven,
+with long meandering bits and connective tissue between the good parts. Copy
+where every sentence is trimmed to maximum impact was written to be impactful,
+and it reads that way.
+
+**The aphorism.** "That's my routine, not your rule." Neat, quotable,
+symmetrical - and nobody has ever said it out loud. If a line feels like it
+could go on a mug or a gym wall, cut it. The wish to be quotable is the most
+visible authorial fingerprint there is.
+
+**Commanding register.** Stacked imperatives and flat pronouncements start to
+scold. She can be direct without issuing instructions, and an audience that
+feels lectured leaves.
+
+The antidote to flowery is not punchy. **It is loose.** Longer sentences that
+wander a bit, "and" and "but" and "honestly" doing the joins, a thought that
+starts one place and ends somewhere slightly off. Her real caption has no
+rhetorical structure at all - it names three foods and stops. When a caption
+does need to say something, it should sound like talking, not like a line
+written to land.
+
+Read a draft aloud. If it sounds like an ad read, loosen it. If it sounds like
+a voice note, it is right.
+
 ## Words and phrases that give it away
 
 Not banned outright - if she says one naturally, it is hers. But each one

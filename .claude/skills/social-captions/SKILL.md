@@ -172,7 +172,8 @@ most of the work of this skill.
 
 The short version of what she does: short lines, plain nouns, real specifics,
 occasional fragment, one emoji at most, and she stops when she is done rather
-than landing a moral. Contradiction and small imperfection read as human -
+than landing a moral. Loose and a bit rambly beats trimmed and punchy - if a
+sentence sounds like it was built to land, it will read as written. Contradiction and small imperfection read as human -
 "I said one plate. It was three." is her. "Balance is about grace, not
 restriction" is not.
 
