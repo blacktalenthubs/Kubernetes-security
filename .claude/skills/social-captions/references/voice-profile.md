@@ -81,12 +81,36 @@ and should stay that way.
 A script that reads as complete, grammatical sentences will sound read. Leave
 the fragments in.
 
+## Who she is talking to
+
+Mostly women. She addresses them directly as "you," and the register is
+teaching with a bit of tough love - "Understood?" rather than "hope this
+helps!" She is not performing relatability at them; she is telling them
+something and expecting them to act on it.
+
+This shapes the angle more than it shapes the wording. A post about her dinner
+is rarely just about her dinner - it is usually a correction to something she
+thinks her audience has wrong.
+
+## How she uses her own routine
+
+Important pattern, and easy to get backwards. When she mentions what she
+personally eats or does, she is often using it as a **contrast, not a
+prescription**: "I eat sweet potatoes most days. You don't have to."
+
+Her routine is the setup. The advice is usually the opposite of copying her.
+Writing a caption that presents her habit as the thing to follow inverts her
+actual message, so when she describes a personal routine, check what she is
+telling the audience to do with it before drafting.
+
 ## Subjects she posts about
 
 - Dinners and meals, often with the components named individually
 - Fitness programs and staying on one while still eating real food
 - African food, and eating it without treating it as a cheat
 - Fashion and outfits
+- Portioning, and the argument that the food is not the problem - the portion
+  is. This is a recurring theme and worth recognising when it surfaces.
 
 ## Still unknown
 

@@ -66,6 +66,18 @@ because it is literally how she talks. Mine it for three things:
 - **The point she was making.** Usually buried in the middle, after she has
   talked herself into it. The thing she circles back to is the caption.
 
+Auto-transcripts are also **unreliable in a way that matters**. Speech-to-text
+mangles exactly the words that carry the meaning - a dish name, a number, the
+one noun the whole post turns on - and a mangled transcript can invert the
+message without looking wrong. A transcript that reads as a post about sweet
+potatoes may be a post about African food in which sweet potatoes are the
+counter-example.
+
+So before drafting from a transcript, say back in one sentence what you think
+the post is arguing, and let her confirm or correct it. That one exchange
+costs a few seconds and prevents a caption that is fluent, well-formed, and
+about the wrong thing.
+
 Then cut hard. A minute of talking becomes four lines. Resist the pull to
 summarise what she said - summarising is what makes captions sound written by
 a machine. Pick the one true sentence out of it and let the rest go.
