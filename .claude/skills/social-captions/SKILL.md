@@ -45,6 +45,36 @@ asking about when they are not obvious:
 
 If she gives you enough to work with, do not interrogate her. Write.
 
+## Working from a voice note or transcript
+
+She often talks through a post before or while filming it, and a rough
+transcript of that is the single best input this skill can get. Claude cannot
+listen to audio, so the transcript has to arrive as text - dictated into the
+app, copied from her phone's voice-memo transcription, or lifted from
+TikTok's or Instagram's auto-captions on an already-filmed video.
+
+When she pastes one, treat it as raw material rather than a draft to polish.
+Transcripts are messy by nature - false starts, repeated words, "mhmm,"
+sentences that never land. That mess is the most valuable thing in the file,
+because it is literally how she talks. Mine it for three things:
+
+- **The facts.** What is actually on the plate, the real numbers, the place,
+  the brand. This is what stops the skill from guessing.
+- **Her phrasing.** If she says "that will help me bring a bit of this
+  calorie," that is her sentence and it beats anything you would write. Lift
+  her actual words into the caption wherever they fit.
+- **The point she was making.** Usually buried in the middle, after she has
+  talked herself into it. The thing she circles back to is the caption.
+
+Then cut hard. A minute of talking becomes four lines. Resist the pull to
+summarise what she said - summarising is what makes captions sound written by
+a machine. Pick the one true sentence out of it and let the rest go.
+
+If the transcript is from an already-filmed video, do not write a teleprompter
+script for it. The audio exists. Write the caption to complement what she
+already said rather than repeat it, and make sure the search phrase she said
+out loud is the one the caption targets, so both slots point the same way.
+
 ## Pick the search phrase first
 
 Before drafting, decide the **one primary phrase** this post should get found
