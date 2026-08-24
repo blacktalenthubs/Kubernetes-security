@@ -175,6 +175,29 @@ Not every post needs all three. A plain meal photo with nothing to teach is
 fine as the bare list, which is her older format. But when there is a point to
 make, the three layers are the shape.
 
+### List posts
+
+Recommendation videos - "five things worth every penny, gym edition" - do not
+take the three-layer shape, because the list is the teaching. Use her older
+format instead: a title line, then the numbered items with a blank line
+between each, then the soft invite.
+
+Two things carry these posts:
+
+- **Name the products plainly.** "Weighted vest," "walking pad," "glass air
+  fryer" are all high-intent searches, and someone looking one up is close to
+  buying. A caption that says "my top five fitness essentials" without listing
+  them is invisible to every one of those searches. The list is the SEO.
+- **Keep her one-line reasons attached.** "I've had mine four years and it's
+  still going" is worth more than the item name alone, and it is where the
+  first-person rule still applies - she says what each thing did for her, not
+  what the audience should buy.
+
+If she frames a post as an "edition" of something, she is running a series.
+Series are the strongest growth pattern available to her - same format, same
+phrase family, posted repeatedly - so keep the title format consistent between
+them and say so when a post looks like part of one.
+
 ## Output format
 
 Give her **three caption options**, labeled by their angle so she can pick
