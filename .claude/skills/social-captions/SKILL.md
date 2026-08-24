@@ -130,15 +130,43 @@ are exactly what someone types, and almost nobody in the fitness space is
 writing those words. Specific dish names beat category words like "African
 food" every time, so lead with them and let the category follow.
 
-**2. The teaching.** What she wants the audience to take away. This is the
-layer that earns the save and the share, which matter more to reach than likes
-do. Keep it loose and spoken - a hedge like "faster than most people think"
-reads as a person talking, where a clean declarative reads as copy.
+**2. The teaching, told about herself.** This is the layer people get wrong,
+and it is worth being careful about, because the difference is invisible in a
+summary and obvious in the caption.
 
-**3. A soft invite.** Something low-pressure at the end - what she is doing
-next, and an open door to follow. "Follow along if this is how you eat too"
-works because it names who it is for instead of demanding anything. Avoid
-"double tap," "save this now," "comment below" - forceful CTAs read as
+Write it in **first person, about what she does** - not in second person about
+what the audience should do. "I eat this way sometimes even though I know how
+calorie dense it can be, I just try to portion it properly and walk after"
+teaches exactly the same thing as "you have to portion this or you'll undo your
+progress," except one is a person describing her own life and the other is
+someone being told off. The audience draws the lesson themselves, which is
+both more persuasive and the reason they stay.
+
+Practical version of the rule:
+
+- Keep the verbs hers. "I try to," "I usually," "for me it's about."
+- Hedge and soften. "Sometimes," "I try," "helps offset," "that's been enough
+  for me." Certainty reads as a brand; hedging reads as a person.
+- Cut anything accusatory. "Nobody wants to hear this," "you'll keep wondering
+  why nothing is changing," "you're doing it wrong" - all of it goes. She is
+  not correcting anyone.
+- Second person is fine when it is permission rather than instruction: "you
+  can still eat this and lose weight" opens a door. "You have to portion it"
+  closes one.
+
+She is showing them it is possible by doing it, not telling them what to do.
+
+The teaching layer earns the save and the share, which move reach more than
+likes do - and people save things that feel useful, not things that feel like
+a scolding.
+
+**3. A soft invite.** Low-pressure, and framed as an offer of something more
+rather than a request for a follow. "If you want to know more about how I
+portion african dishes, follow along" gives a reason to stay; "follow me!"
+asks for a favour. The first converts better anyway, because it tells someone
+exactly what they are signing up for.
+
+Avoid "double tap," "save this now," "comment below" - forceful CTAs read as
 reach-chasing and cost more trust than they gain.
 
 Then the hashtag block.
