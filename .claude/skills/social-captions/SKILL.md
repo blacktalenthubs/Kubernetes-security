@@ -124,11 +124,23 @@ Default to **three short paragraphs**, in this order, with a blank line between
 each. The structure exists because each layer does a different job, and a
 caption missing one of them underperforms in a specific way.
 
-**1. What's on the plate.** Name the actual dishes, plainly. This is her voice
-and it is also the highest-value search text on the page - "amala" and "egusi"
-are exactly what someone types, and almost nobody in the fitness space is
-writing those words. Specific dish names beat category words like "African
-food" every time, so lead with them and let the category follow.
+**1. The concrete anchor.** For a meal post this is the dishes, named plainly -
+"amala" and "egusi" are exactly what someone types, and almost nobody in the
+fitness space writes those words, so specific names beat category words like
+"African food" every time.
+
+For a post with nothing physical in it - a mindset or habit post - the anchor
+is the claim itself, stated flat: "I eat the same things every day, I just
+rotate them." Same job either way: give the reader and the search index
+something specific in the first line rather than a windup.
+
+Worth knowing which kind of post you have, because it changes what reach looks
+like. Posts naming real things (dishes, products) get found through those
+nouns, which is the strongest and most durable search traffic available to
+her. Mindset posts have no such nouns and rank on phrases instead - "how to
+make fitness a lifestyle," "getting back on track" - which is a thinner
+market. Both are worth posting, but if growth is the goal, the noun-carrying
+posts are the ones that compound.
 
 **2. The teaching, told about herself.** This is the layer people get wrong,
 and it is worth being careful about, because the difference is invisible in a
