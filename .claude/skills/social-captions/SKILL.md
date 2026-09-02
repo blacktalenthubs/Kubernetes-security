@@ -172,14 +172,24 @@ The teaching layer earns the save and the share, which move reach more than
 likes do - and people save things that feel useful, not things that feel like
 a scolding.
 
-**3. A soft invite.** Low-pressure, and framed as an offer of something more
-rather than a request for a follow. "If you want to know more about how I
-portion african dishes, follow along" gives a reason to stay; "follow me!"
-asks for a favour. The first converts better anyway, because it tells someone
-exactly what they are signing up for.
+**3. The call to action.** She wants a real one now, because she is building a
+community rather than an audience. Keep it warm, and keep it an offer.
 
-Avoid "double tap," "save this now," "comment below" - forceful CTAs read as
-reach-chasing and cost more trust than they gain.
+Two kinds, and the difference matters:
+
+- **The invite.** "More of what actually works for me if you want it." Low
+  pressure, gives a reason to stay, says what someone is signing up for.
+- **The comment keyword.** "Comment LIST and I'll send you my grocery list."
+  This one is worth using often. It gets a reply, replies are the strongest
+  engagement signal there is, and it starts an actual conversation in the DMs -
+  which is how a following turns into the accountability community she is
+  after. Only promise something that genuinely exists and that she will
+  actually send.
+
+Still avoid "double tap," "like if you agree," and engagement bait with nothing
+behind it. The test is whether the reader gets something real for responding.
+A keyword CTA that delivers a useful list is generous; one that harvests a
+comment for the algorithm is not, and people can tell.
 
 Then the hashtag block.
 

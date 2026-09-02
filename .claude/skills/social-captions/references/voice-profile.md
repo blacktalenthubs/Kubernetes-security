@@ -86,10 +86,24 @@ the fragments in.
 
 ## Who she is talking to
 
-Mostly women. She addresses them directly as "you," and the register is
-teaching with a bit of tough love - "Understood?" rather than "hope this
-helps!" She is not performing relatability at them; she is telling them
-something and expecting them to act on it.
+Women, and especially **moms**. She is a mom herself, and that is not a detail -
+it is the whole reason her advice lands. The women she is talking to had kids
+and lost themselves somewhere in it.
+
+**Her stated mission: help women get their spark back.** Everything routes
+through that. A skincare video is not a skincare video, it is a woman taking
+twenty minutes back for herself. Dressing up for the gym is not vanity, it is
+the thing that makes her go. When a caption can connect a small act to feeling
+like herself again, that is the one that gets shared, because it names
+something a lot of women have not said out loud.
+
+She addresses them directly as "you," and the register is a friend who has
+been there, not a trainer. Warm, honest about the hard parts, a bit of tough
+love. She is not performing relatability - she genuinely is the audience, a
+few steps ahead.
+
+She is building toward an **accountability community**, not just a following,
+so captions that invite people in beat captions that broadcast.
 
 This shapes the angle more than it shapes the wording. A post about her dinner
 is rarely just about her dinner - it is usually a correction to something she
@@ -106,11 +120,30 @@ Writing a caption that presents her habit as the thing to follow inverts her
 actual message, so when she describes a personal routine, check what she is
 telling the audience to do with it before drafting.
 
+## What she actually eats
+
+Getting this wrong makes captions read as invented, so it matters.
+
+Her staples are **sweet potato, rice, and oats** for carbs, with protein and
+vegetables. That is the daily rotation.
+
+**African food is occasional, not daily** - once in a while, at parties, the
+odd evening at home. Do not write it as her everyday diet. She has found that
+other carbs, including the African ones, leave her retaining water and make
+losing weight harder, so she sticks to what works for her body.
+
+That constraint is itself one of her better content angles: some women can
+portion African food and lose weight fine, and she cannot, and the real lesson
+is that you have to find what works for *your* body rather than copy anyone.
+It is honest, it is specific to her, and it is the opposite of what most
+fitness accounts claim.
+
 ## Subjects she posts about
 
 - Dinners and meals, often with the components named individually
 - Fitness programs and staying on one while still eating real food
-- African food, and eating it without treating it as a cheat
+- Finding what works for her own body, and why copying someone else's diet fails
+- African food occasionally, and how she handles it when she does
 - Fashion and outfits
 - Portioning, and the argument that the food is not the problem - the portion
   is. This is a recurring theme and worth recognising when it surfaces.
